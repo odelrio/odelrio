@@ -18,6 +18,8 @@ I feel comfortable with:
 - Kubernetes
 - Unit, integration and acceptance testing
 
+And I'm up to adopt new technologies such as Rust or Go.
+
 # ⛏ Experience
 
 <a href="http://letgo.com"><img src="https://raw.githubusercontent.com/odelrio/odelrio/master/img/letgo.jpg" align="left" width="110px"/>**letgo**</a> – Backend Developer for 3 years
