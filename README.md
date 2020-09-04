@@ -47,3 +47,25 @@ Here I was in charge of development and maintenance of a series of Spanish **wel
 </details>
 
 Previously, I worked on smaller companies developing websites and as an IT technician (HelpDesk).
+
+# 💚 Values
+
+## Things that makes me happy
+
+- A product that matches my interests
+- Companies promoting transparency and open communication
+- Policies to protect diversity and foster the integration of under-represented colectives
+- Trust-based relationships between colleagues
+- Self accountability, but sharing successes and failures
+- Pair programming and in-house trainings
+- Clear employee expectations and well-defined responsibilities
+
+## Things that makes me sad
+
+- A product that is viable just because of tax avoidance, precarious work or legal gaps
+- Massive and shady personal data collecting
+- Vertical and inaccessible organizations
+- Internal competitions and unresolved disputes
+- Traveling outside Schengen Area, UK, Canada, Japan, Australia, New Zealand, South Korea and Singapore
+- Indisputable technical premises
+- Companies not sharing their numbers internally
