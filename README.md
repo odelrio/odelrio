@@ -52,7 +52,7 @@ Before that, I worked on smaller companies developing websites and as an IT tech
 
 # 💚 Values
 
-### Things that make me happy
+### Things that make me happy 👍🏻
 
 - A product that matches my interests
 - Companies promoting transparency and open communication
@@ -61,8 +61,9 @@ Before that, I worked on smaller companies developing websites and as an IT tech
 - Self-accountability, but sharing successes and failures
 - Pair programming and in-house technical training
 - Clear employee expectations and well-defined responsibilities
+- Contributing to community with open source software
 
-### Things that make me sad
+### Things that make me sad 👎🏻
 
 - A product that is viable just because of tax avoidance, precarious work, or legal gaps
 - Massive and shady personal data collecting
@@ -71,6 +72,7 @@ Before that, I worked on smaller companies developing websites and as an IT tech
 - Having to travel abroad
 - Indisputable technical premises
 - Companies not sharing their numbers internally
+- Using old technology with no reason
 
 # 💡 Interests
 
