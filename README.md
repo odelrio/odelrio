@@ -4,6 +4,8 @@
 
 I'm a Software Developer and a tech enthusiast based in Barcelona. My area of expertise involves building backend services in a distributed, scalable and resilient way. I've worked in Agile teams developing software for high-concurrency environments.
 
+I've written a set of lists so you can get to know me better without having to read too much, but feel free to email me to schedule a call anytime.
+
 # 👨🏻‍💻 Tech
 
 I feel comfortable with:
@@ -93,3 +95,17 @@ But as a fidget, I'm also curious about:
 - Engineering in general
 
 Anyway, do not expect these lists to be up-to-date by tomorrow morning.
+
+# 💌 Contact me
+
+If you liked what you just read and have any interesting offer for me, reach me at <a href="mailto:contact@odelrio.com">contact@odelrio.com</a>.
+
+# 👌 Friends
+
+Otherwise, you might be interested in one of these great professionals:
+
+- <a href="https://www.linkedin.com/in/pausanchezfernandez/">Pau Sánchez</a>, PHP Backend Developer
+- <a href="https://www.linkedin.com/in/tomascayuelas/">Tomás Cayuelas</a>, PHP & Scala Backend Developer
+- <a href="https://www.linkedin.com/in/natxotreig/">Natxo Treig</a>, Engineering Manager
+
+<sub>Psst! Open a PR if your name is still not here! Also if you want to change your link or title.</sub>
