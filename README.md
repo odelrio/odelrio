@@ -2,7 +2,7 @@
 
 # 👋🏻 Hello!
 
-I'm a Software Developer and a tech enthusiast based in Barcelona. My area of expertise involves building backend services in a distributed, scalable, and resilient way. I've worked in Agile teams developing software for high-concurrency environments.
+I'm a Software Developer and a tech enthusiast based in Barcelona, Spain. My area of expertise involves building backend services in a distributed, scalable, and resilient way. I've worked in Agile teams developing software for high-concurrency environments.
 
 I've written a set of lists so you can get to know me better without having to read too much, but feel free to email me to schedule a call anytime.
 
@@ -68,7 +68,7 @@ Before that, I worked on smaller companies developing websites and as an IT tech
 - Massive and shady personal data collecting
 - Vertical and inaccessible organizations
 - Internal competitions and unresolved disputes
-- Traveling outside Schengen Area, UK, Canada, Japan, Australia, New Zealand, South Korea, and Singapore
+- Having to travel abroad
 - Indisputable technical premises
 - Companies not sharing their numbers internally
 
