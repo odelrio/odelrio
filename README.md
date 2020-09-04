@@ -20,7 +20,7 @@ I feel comfortable with:
 
 And I'm up to adopt new technologies such as Rust or Go.
 
-# ⛏ Experience
+# 🚧 Experience
 
 <a href="http://letgo.com"><img src="https://raw.githubusercontent.com/odelrio/odelrio/master/img/letgo.jpg" align="left" width="110px"/>**letgo**</a> – Backend Developer for 3 years
 
