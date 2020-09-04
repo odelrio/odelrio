@@ -108,5 +108,6 @@ Otherwise, you might be interested in one of these great professionals:
 - <a href="https://www.linkedin.com/in/tomascayuelas/">Tomás Cayuelas</a>, PHP & Scala Backend Developer
 - <a href="https://www.linkedin.com/in/natxotreig/">Natxo Treig</a>, Engineering Manager
 - <a href="https://www.linkedin.com/in/victor-dube-fernandez/">Victor Dubé</a>, Software Engineer (<a href="https://agilogy.com/">Agilogy</a>)
+- <a href="https://www.linkedin.com/in/rgomezcasas/">Rafa Gómez</a>, Co-founder of (<a href="https://codely.tv/">Codely</a>)
 
 <sub>Psst! Open a PR if your name is still not here! Also if you want to change your link or title.</sub>
