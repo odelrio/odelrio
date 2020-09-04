@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/odelrio/odelrio/master/banner.gif" />
+<img src="https://raw.githubusercontent.com/odelrio/odelrio/master/img/banner.gif" />
 
 # 👋🏻 Hello!
 
