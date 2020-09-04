@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/odelrio/odelrio/master/banner.gif" />
+
 # 👋🏻 Hello!
 
 I'm a Software Developer and a tech enthusiast based in Barcelona. My area of expertise involves building backend services in a distributed, scalable and resilient way. I've worked in Agile teams developing software for high-concurrency environments.
