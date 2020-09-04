@@ -50,7 +50,7 @@ Previously, I worked on smaller companies developing websites and as an IT techn
 
 # 💚 Values
 
-## Things that makes me happy
+### Things that makes me happy
 
 - A product that matches my interests
 - Companies promoting transparency and open communication
@@ -60,7 +60,7 @@ Previously, I worked on smaller companies developing websites and as an IT techn
 - Pair programming and in-house trainings
 - Clear employee expectations and well-defined responsibilities
 
-## Things that makes me sad
+### Things that makes me sad
 
 - A product that is viable just because of tax avoidance, precarious work or legal gaps
 - Massive and shady personal data collecting
@@ -69,3 +69,27 @@ Previously, I worked on smaller companies developing websites and as an IT techn
 - Traveling outside Schengen Area, UK, Canada, Japan, Australia, New Zealand, South Korea and Singapore
 - Indisputable technical premises
 - Companies not sharing their numbers internally
+
+# 💡 Interests
+
+As a geek, my main interests float around tech world:
+
+- Internet of Things
+- Smart home automation
+- Networking and building computers
+- Electronics engineering
+- Privacy and security
+- Smart mobility
+
+But as a fidget, I'm also curious about:
+
+- Interiors design
+- Finances
+- Sociology
+- DIY projects of any kind
+- Freedom of the press
+- Architecture
+- Sustainability
+- Engineering in general
+
+Anyway, do not expect these lists to be up-to-date by tomorrow morning.
