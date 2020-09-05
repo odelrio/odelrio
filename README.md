@@ -114,5 +114,6 @@ Otherwise, you might be interested in one of these great professionals:
 - [Manel Domenech](https://www.linkedin.com/in/manel-domenech-90230890/), PHP Backend Developer
 - [Raúl de Oñate](https://www.linkedin.com/in/ra%C3%BAl-de-o%C3%B1ate-4989a690/), iOS Engineer
 - [Gerard Madorell](https://www.linkedin.com/in/gmadorell/), Scala Backend Developer
+- [Elisabet Chueca](https://www.linkedin.com/in/elisabetchueca/), QA Engineer
 
 <sub>(Psst! Open a PR if your name is still not here! Also if you want to change your link or title)</sub>
