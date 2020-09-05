@@ -26,7 +26,7 @@ And I'm up to adopt new technologies such as Rust or Go.
 
 <a href="http://letgo.com"><img src="https://raw.githubusercontent.com/odelrio/odelrio/master/img/letgo.jpg" align="left" width="110px"/>**letgo**</a> – Backend Developer for 3 years
 
-Part of the **Growth squad** teaming up with different specialists (Mobile, QA, Design, Product and Management). I was in charge of developing marketing and retention campaigns. Successfully delivered millions of pushes and emails, and helped the company reach the OKRs. The company's **userbase was +100M** by that time.
+Part of the **Growth squad** teaming up with different specialists (Mobile, QA, Design, Product and Management). I was in charge of developing marketing and retention campaigns. Successfully delivered millions of pushes and emails, and helped the company reach the OKRs. The company's **userbase was 100M+** by that time.
 
 <details>
   <summary><b>Technical details</b></summary>
@@ -36,7 +36,7 @@ Part of the **Growth squad** teaming up with different specialists (Mobile, QA, 
   <sub><b>Stack:</b> Scala, PHP, Play Framework, Cats, Symfony, http4s, FS2, AWS (DynamoDB, Aurora, EKS, SNS & SQS), MySQL, Redis, ElasticSearch, Terraform, Kubernetes, Jenkins, Grafana, New Relic, Kibana, GitHub, Jira, Confluence.</sub>
 </details>
 
-<a href="http://memondonetwork.es"><img src="https://raw.githubusercontent.com/odelrio/odelrio/master/img/memondo.jpg" align="left" width="110px"/>**Memondo Network**</a> – Fullstack Developer for +3 years
+<a href="http://memondonetwork.es"><img src="https://raw.githubusercontent.com/odelrio/odelrio/master/img/memondo.jpg" align="left" width="110px"/>**Memondo Network**</a> – Fullstack Developer for 3+ years
 
 I was in charge of the development and maintenance of a series of Spanish **well-known entertainment websites** such as Asco de Vida, Memedeportes, Así va España, Urbanian, or Cribeo. I also worked on the remake of ContaHogar, a personal finance webapp. I had the chance to dig into **web development as a whole**.
 
