@@ -88,12 +88,12 @@ As a geek, my main interests float around the tech world:
 But as a fidget, I'm also curious about:
 
 - Interiors design
-- Finances
 - Sociology
 - DIY projects of any kind
 - Freedom of the press
 - Architecture
 - Sustainability
+- Nutrition
 - Engineering in general
 
 Anyway, do not expect these lists to be up-to-date by tomorrow morning.
@@ -104,7 +104,7 @@ If you liked what you just read and have any appealing offer for me, reach me ou
 
 # 👌 Friends
 
-Otherwise, you might be interested in one of these great professionals:
+You might also be interested in one of these great professionals:
 
 - [Pau Sánchez](https://www.linkedin.com/in/pausanchezfernandez/), PHP Backend Developer
 - [Tomás Cayuelas](https://www.linkedin.com/in/tomascayuelas/), PHP & Scala Backend Developer
